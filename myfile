@@ -1,3 +1,9 @@
 git init
 git add README.md
 git commit -m "first commit"
+git checkout
+git branch
+touch new feature.txt -m 
+git add
+git commit
+git push new feature
